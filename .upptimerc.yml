@@ -4,7 +4,7 @@ user-agent: "Presupuesta.me Upptime Checker"
 
 sites:
   - name: Presupuesta.me
-    url: https://staging.presupuesta.me
+    url: https://staging.presupuesta.me/up
     maxResponseTime: 1000
 
 assignees:
