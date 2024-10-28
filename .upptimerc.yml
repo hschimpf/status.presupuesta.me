@@ -21,5 +21,6 @@ status-website:
       href: https://staging.presupuesta.me
     - title: Status
       href: /
+
 i18n:
   footer: [HDS Solutions](https://hds-solutions.net) &copy; 2024 Todos los derechos reservados | powered by [Upptime](https://upptime.js.org)
