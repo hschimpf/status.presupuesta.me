@@ -16,7 +16,7 @@ status-website:
   name: Presupuesta.me Status
   cname: status.presupuesta.me
   logoUrl: https://hds-solutions.net/build/assets/favicon-Ddt1gdk2.ico
-  theme: ocean
+  theme: night
   introTitle: "Status page for **[Presupuesta.me](https://presupuesta.me)**"
   navbar:
     - title: Home
