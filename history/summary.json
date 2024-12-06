@@ -4,17 +4,19 @@
     "url": "https://staging.presupuesta.me/up",
     "icon": "https://icons.duckduckgo.com/ip3/staging.presupuesta.me.ico",
     "slug": "presupuesta-me",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 716,
-    "timeDay": 746,
-    "timeWeek": 592,
-    "timeMonth": 823,
-    "timeYear": 716,
-    "dailyMinutesDown": {}
+    "time": 729,
+    "timeDay": 1086,
+    "timeWeek": 696,
+    "timeMonth": 840,
+    "timeYear": 729,
+    "dailyMinutesDown": {
+      "2024-12-06": 0
+    }
   }
 ]
