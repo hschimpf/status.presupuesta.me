@@ -1,7 +1,7 @@
 url: https://staging.presupuesta.me/up
-status: degraded
+status: down
 code: 500
-responseTime: 1013
-lastUpdated: 2024-12-11T05:12:01.363Z
+responseTime: 937
+lastUpdated: 2024-12-11T05:33:45.626Z
 startTime: 2024-10-29T00:27:14.875Z
 generator: Upptime <https://github.com/upptime/upptime>
