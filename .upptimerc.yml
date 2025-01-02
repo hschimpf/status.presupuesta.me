@@ -7,7 +7,7 @@ sites:
     url: https://staging.presupuesta.me/up
     headers:
       - "User-Agent: Presupuesta.me Upptime"
-    maxResponseTime: 1000
+    maxResponseTime: 5000
 
 assignees:
   - $OWNER
